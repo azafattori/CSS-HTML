@@ -20,6 +20,29 @@ nav{
     border: 3px solid rgb(79, 99, 29);
     text-align: center;
 }
+.inicio{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 120%;
+}
+.ubicacion{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 120%;
+}
+.producto{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 120%;
+}
+.contacto{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 120%;
 .principal img{
     width: 300px;
     border-radius: 20px;
